@@ -1,5 +1,6 @@
 # ProvaQuarta
-![image](https://github.com/Frigs2to0/ProvaQuarta/assets/96925831/b35657d0-7aee-4e8b-9483-f78b984dd47a)
+![image](https://github.com/Frigs2to0/ProvaQuarta/assets/96925831/f9fdd089-3870-46ee-bac7-5eaa1e603283)
+
 
 Singleton: Estou utilizando na classe carrinhoDeCompras, criando uma instância única dele, utilizei
 essa instancia na ECommerce(main) "CarrinhoDeCompras cc = CarrinhoDeCompras.getInstance();", fiz um
